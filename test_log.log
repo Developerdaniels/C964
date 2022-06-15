@@ -1,0 +1,40 @@
+Critical level
+l
+Traceback (most recent call last):
+  File "C:\Users\Gator\AppData\Local\Temp\ipykernel_6152\1342884302.py", line 18, in <cell line: 17>
+    5/0
+ZeroDivisionError: division by zero
+l
+Traceback (most recent call last):
+  File "C:\Users\Gator\AppData\Local\Temp\ipykernel_6152\4093844441.py", line 2, in <cell line: 1>
+    5/0
+ZeroDivisionError: division by zero
+hello!
+This is a debug message
+this is an info message
+tbllalfhldfhd, warning.
+hello!
+This is a debug message
+this is an info message
+tbllalfhldfhd, warning.
+hello!
+This is a debug message
+this is an info message
+tbllalfhldfhd, warning.
+ok
+Traceback (most recent call last):
+  File "C:\Users\Gator\AppData\Local\Temp\ipykernel_6152\854917137.py", line 2, in <cell line: 1>
+    5/0
+ZeroDivisionError: division by zero
+ok
+Traceback (most recent call last):
+  File "C:\Users\Gator\AppData\Local\Temp\ipykernel_6152\854917137.py", line 2, in <cell line: 1>
+    5/0
+ZeroDivisionError: division by zero
+ok
+Traceback (most recent call last):
+  File "C:\Users\Gator\AppData\Local\Temp\ipykernel_6152\854917137.py", line 2, in <cell line: 1>
+    5/0
+ZeroDivisionError: division by zero
+s
+ok
