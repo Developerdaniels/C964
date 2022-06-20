@@ -6,6 +6,5 @@ plotly==5.8.2
 seaborn==0.11.2
 matplotlib==3.5.2
 cufflinks==0.17.3
-csv==1.0
 jupyter_dash==0.4.2
 watermark==2.3.1
